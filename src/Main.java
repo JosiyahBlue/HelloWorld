@@ -4,6 +4,6 @@ public class Main {
         System.out.println("What's your name?");
         Scanner s = new Scanner(System.in);
         String name = s.nextLine();
-        System.out.println("Hello, " + name + "!");J
+        System.out.println("Hello, " + name + "!");
     }
 }
